@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
-  <h1>Privacy Policy for [APP_NAME]</h1>
+  <h1>Privacy Policy for Glimpse</h1>
   <p>Effective date: 04/04/2026</p>
 
   <h2>Information we collect</h2>
