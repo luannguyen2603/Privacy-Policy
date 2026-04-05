@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Privacy Policy - [APP_NAME]</title>
+  <title>Privacy Policy - Glimpse</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
